@@ -1,7 +1,7 @@
-package com.example.word.service;
+package com.example.kawaii.service;
 
-import com.example.word.model.Kawaii;
-import com.example.word.service.base.Result;
+import com.example.kawaii.model.Kawaii;
+import com.example.kawaii.service.base.Result;
 
 import java.util.List;
 

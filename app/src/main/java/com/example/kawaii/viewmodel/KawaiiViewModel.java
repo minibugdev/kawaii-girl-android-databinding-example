@@ -1,9 +1,9 @@
-package com.example.word.viewmodel;
+package com.example.kawaii.viewmodel;
 
 import android.databinding.BaseObservable;
 import android.databinding.Bindable;
 
-import com.example.word.model.Kawaii;
+import com.example.kawaii.model.Kawaii;
 
 public class KawaiiViewModel extends BaseObservable {
     private Kawaii model;

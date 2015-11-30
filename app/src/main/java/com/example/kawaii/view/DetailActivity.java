@@ -1,4 +1,4 @@
-package com.example.word.view;
+package com.example.kawaii.view;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -13,10 +13,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.example.word.R;
-import com.example.word.databinding.ActivityDetailBinding;
-import com.example.word.model.Kawaii;
-import com.example.word.viewmodel.KawaiiViewModel;
+import com.example.kawaii.R;
+import com.example.kawaii.databinding.ActivityDetailBinding;
+import com.example.kawaii.model.Kawaii;
+import com.example.kawaii.viewmodel.KawaiiViewModel;
 import com.squareup.picasso.Picasso;
 
 public class DetailActivity extends AppCompatActivity {

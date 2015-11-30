@@ -1,4 +1,4 @@
-package com.example.word.view;
+package com.example.kawaii.view;
 
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
@@ -7,13 +7,13 @@ import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-import com.example.word.R;
-import com.example.word.databinding.ActivityMainBinding;
-import com.example.word.model.Kawaii;
-import com.example.word.service.base.Result;
-import com.example.word.service.base.Service;
-import com.example.word.service.callback.ResultCallback;
-import com.example.word.view.adapter.KawaiiAdapter;
+import com.example.kawaii.R;
+import com.example.kawaii.databinding.ActivityMainBinding;
+import com.example.kawaii.model.Kawaii;
+import com.example.kawaii.service.base.Result;
+import com.example.kawaii.service.base.Service;
+import com.example.kawaii.service.callback.ResultCallback;
+import com.example.kawaii.view.adapter.KawaiiAdapter;
 
 import java.util.List;
 

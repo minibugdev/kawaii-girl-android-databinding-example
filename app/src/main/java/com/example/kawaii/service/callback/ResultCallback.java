@@ -1,4 +1,4 @@
-package com.example.word.service.callback;
+package com.example.kawaii.service.callback;
 
 import android.util.Log;
 

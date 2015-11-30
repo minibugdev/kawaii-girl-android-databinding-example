@@ -1,7 +1,7 @@
-package com.example.word.service.base;
+package com.example.kawaii.service.base;
 
-import com.example.word.BuildConfig;
-import com.example.word.service.KawaiiService;
+import com.example.kawaii.BuildConfig;
+import com.example.kawaii.service.KawaiiService;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.logging.HttpLoggingInterceptor;
 

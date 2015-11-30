@@ -1,4 +1,4 @@
-package com.example.word.service.base;
+package com.example.kawaii.service.base;
 
 public class Result<T> {
     private boolean error;

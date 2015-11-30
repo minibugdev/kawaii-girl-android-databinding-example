@@ -1,4 +1,4 @@
-package com.example.word.view.adapter;
+package com.example.kawaii.view.adapter;
 
 import android.databinding.BindingAdapter;
 import android.databinding.DataBindingUtil;
@@ -9,11 +9,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.example.word.BR;
-import com.example.word.R;
-import com.example.word.databinding.ListItemBinding;
-import com.example.word.model.Kawaii;
-import com.example.word.viewmodel.KawaiiViewModel;
+import com.example.kawaii.BR;
+import com.example.kawaii.R;
+import com.example.kawaii.databinding.ListItemBinding;
+import com.example.kawaii.model.Kawaii;
+import com.example.kawaii.viewmodel.KawaiiViewModel;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

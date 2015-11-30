@@ -6,7 +6,7 @@
 
         <variable
             name="kawaiiViewModel"
-            type="com.example.word.viewmodel.KawaiiViewModel"/>
+            type="com.example.kawaii.viewmodel.KawaiiViewModel"/>
     </data>
 
     <RelativeLayout
