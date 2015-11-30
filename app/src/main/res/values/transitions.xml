@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transition_grid_image">transition:image</string>
+    <string name="transition_grid_name">transition:name</string>
+</resources>
